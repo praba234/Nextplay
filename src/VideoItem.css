@@ -1,0 +1,19 @@
+/* src/components/VideoItem.css */
+.video-item {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    
+  }
+  
+  .video-item img {
+    margin-right: 10px;
+    flex-basis: 25%;
+    
+  }
+  
+  .video-item .content {
+  flex: 1;
+  }
+
+  
